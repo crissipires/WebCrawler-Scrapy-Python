@@ -1,1 +1,1 @@
-#Extraindo noticias do portal faculdade dos ultimos 2 anos sobre os cursos de engenharia e disponibilizando os dados em uma api
+#Extraindo ultimas noticias do portal faculdade de 2021
