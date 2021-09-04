@@ -3,7 +3,7 @@ from crawler.items import NewsItens
 
 
 class ExtrairSpider(scrapy.Spider):
-    name = 'quotes'
+    name = 'noticias'
     start_urls = ['http://noosfero.ucsal.br/institucional/noticias/',]
 
     def parse(self, response):
