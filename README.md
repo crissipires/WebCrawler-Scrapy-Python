@@ -1,6 +1,6 @@
 # NewsScraping 
 
-Esse é um projeto de raspagem de noticias do portal da universidade Ucsal http://noosfero.ucsal.br/institucional
+Esse é um projeto de raspagem das últimas noticias, de 2021, do portal da universidade Ucsal http://noosfero.ucsal.br/institucional
 
 
 ## Dados Extraidos 
