@@ -1,3 +1,20 @@
-# 🚧 Em construção 🚧
+# NewsScraping 
 
-O projeto conta com uma api que retorna um json com as ultimas noticias de 2021 do portal da minha faculdade (Ucsal).
+Esse é um projeto de raspagem de noticias do portal da universidade Ucsal http://noosfero.ucsal.br/institucional
+
+
+## Dados Extraidos 
+
+Esse projeto extrai titulo, data e o link da respectiva noticia raspada.
+Exemplo de dado extraido:
+
+    {
+    
+    "title": "INSCRIÇÕES ABERTAS PARA O PROGRAMA DE MONITORIA SOLIDÁRIA DA GRADUAÇÃO 2021.2",
+    "date": "18 de Agosto de 2021, 18:34",
+    "link": "http://noosfero.ucsal.br/institucional/noticias/inscricoes-abertas-para-o-programa-de-monitoria-solidaria-da-graduacao-2021.2"
+    
+    }
+
+
+ ## Rodar o spider
