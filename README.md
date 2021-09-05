@@ -5,7 +5,7 @@ Esse é um projeto de raspagem das últimas noticias, de 2021, do portal da univ
 
 ## Dados Extraidos 
 
-O projeto conta um um único spider que extrai titulo, data e o link da respectiva noticia raspada e disponiza os dados em formato json.
+O projeto conta um um único spider que extrai titulo, data e o link da respectiva noticia raspada e disponiza os dados em um arquiteto no formato json.
 
 Exemplo de dado extraido:
 
