@@ -18,8 +18,12 @@ Exemplo de dado extraido:
     }
 
 
- ## Rodar o spider
- Dentro do diretorio do projeto use os comandos:
- 
+ ## Rodar o spider:
+
+Entre no diretorio do arquivo: 
+
       cd crawler/crawler/spiders
+
+Execute o comando: 
+
       scrapy crawl noticias
