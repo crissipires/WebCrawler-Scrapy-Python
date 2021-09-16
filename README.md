@@ -3,6 +3,11 @@
 Esse é um projeto de raspagem das últimas noticias, de 2021, do portal da universidade Ucsal http://noosfero.ucsal.br/institucional
 
 
+## Tecnologias Utilizadas:
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> Com Framework <a href="https://scrapy.org/">Scrapy</a>
+
 ## Dados Extraidos 
 
 O projeto conta com um único spider que extrai titulo, data e o link de cada notícia e disponibiliza os dados em um arquivo, no formato json.
